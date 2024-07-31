@@ -579,8 +579,11 @@
             {
                  "language": "loremipsum",
                  "path": "./snippets/loremipsum.json"
+            },
+            {
+                 "language": "incus",
+                 "path": "./snippets/incus.json"
             }
         ]
     }
 }
-
